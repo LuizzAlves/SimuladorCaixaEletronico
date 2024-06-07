@@ -32,7 +32,7 @@ gcc -c caixa_eletronico.c -o caixa_eletronico.o
 gcc main.o caixa_eletronico.o -o caixa_eletronico
 
 
-### How to run Linux and macOS:
+### Como rodar em Linux e macOS:
 
 bash
 ./caixa_eletronico
@@ -46,7 +46,7 @@ gcc -c caixa_eletronico.c -o caixa_eletronico.o
 gcc main.o caixa_eletronico.o -o caixa_eletronico.exe
 
 
-### How to run Windows:
+### Como rodar em Windows:
 
 
 caixa_eletronico.exe
