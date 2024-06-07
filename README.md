@@ -15,8 +15,6 @@ Este é um programa em C que simula operações comuns de um caixa eletrônico. 
 
 ## Requisitos
 
-[Liste os requisitos necessários para rodar seu programa. Por exemplo:]
-
 - GCC (GNU Compiler Collection)
 - Sistema Operacional: Linux, macOS ou Windows
 
